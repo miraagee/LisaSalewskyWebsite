@@ -628,10 +628,6 @@ circle {
     animation: animate-path-25 1s 1s linear forwards;
     -webkit-animation: animate-path-25 1s 1s linear forwards;
 }
-.path-25 {
-    animation: animate-path-25 1s 1s linear forwards;
-    -webkit-animation: animate-path-25 1s 1s linear forwards;
-}
 
 @keyframes animate-path-25 {
     100% {
